@@ -1,8 +1,15 @@
-# About this repository
-In order to improve the management of documents also notes, combine all of them here and link to any community.
+# 仓库说明
+## 用途
+用于整合散布于各种论坛平台的文档
 
-# Contact me
-Anything to discuss, you can contact me via this email `guanli_developer@aliyun.com`
+## Issues
+开发过程中遇到的问题通常会以Issue方式记录，以便记录分析解决的过程，当然，理论上会存在一些由于本人技术能力所限暂时无法解决的问题，也非常希望各位大佬能在Issue中进行补充和完善
 
-# Issues
-In most situation, the trouble will be write to a issue, it's good to timely record the progress of the problem. What's more, in theory, I can't solve all problems I met, so the issue is easier to cooperation with developers to solve problems.
+## Wiki
+Wiki中通常会存放一些积累性的知识
+
+# 联系我
+如果在任何文档中发现不妥，欢迎指正，当然，如果有任何想一起讨论的问题，也非常欢迎通过邮箱`guanli_community@aliyun.com`与我联系
+
+# 版权信息
+本人热衷开源，秉承开源精神，本仓库中的文档和资料欢迎分享，不过建议您转载和分享时注明出处，以便有谬误或其他问题时能够有更多伙伴能及时指正，避免以讹传讹
